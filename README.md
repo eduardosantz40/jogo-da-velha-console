@@ -20,3 +20,4 @@ boas práticas de desenvolvimento. Ele foi desenvolvido no curso tecnico em dese
 Para rodar o projeto, execute o arquivo principal dentro da pasta `src`:
 
 ```bash
+ex66.py src/main.py
